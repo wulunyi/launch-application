@@ -1,0 +1,20 @@
+{
+  "name": "launch-application",
+  "version": "1.0.0",
+  "description": "launch application 唤起桌面应用",
+  "main": "lib/launch-application.js",
+  "scripts": {
+    "test": "webpack --config ./test/webpack.config.babel.js --progress --colors",
+    "build": "webpack --config ./webpack.config.babel.js --progress --colors"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.24.1",
+    "babel-loader": "^7.1.1",
+    "babel-preset-es2015": "^6.24.1",
+    "babel-preset-stage-0": "^6.24.1",
+    "html-webpack-plugin": "^2.30.1",
+    "webpack": "^3.2.0"
+  },
+  "author": "wulunyi",
+  "license": "ISC"
+}
