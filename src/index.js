@@ -84,5 +84,5 @@ module.exports = function launchApplication(url, success, fail) {
     done();
 
     safeCall(fail);
-  }, 1800);
+  }, 300);
 }

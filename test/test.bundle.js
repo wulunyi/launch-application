@@ -140,7 +140,7 @@ var _typeof = typeof Symbol === "function" && typeof Symbol.iterator === "symbol
           o(), c(n);
         }l = setTimeout(function () {
           o(), c(n);
-        }, 1800);
+        }, 300);
       }
     };
   }]);
