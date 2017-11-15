@@ -1,6 +1,6 @@
 {
-  "name": "launch-application",
-  "version": "1.0.2",
+  "name": "@im/launch-application",
+  "version": "1.0.4",
   "description": "pc web launch application 唤起桌面应用",
   "main": "lib/launch-application.js",
   "repository": {
